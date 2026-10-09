@@ -11,10 +11,14 @@
             "id": "53808c31aec86ef0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01-Networking/OSI Model – 7 Layers of Computer Networks.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "OSI Model – 7 Layers of Computer Networks"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01-Networking/OSI Model – 7 Layers of Computer Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01-Networking/OSI Model – 7 Layers of Computer Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01-Networking/OSI Model – 7 Layers of Computer Networks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,10 +190,14 @@
   },
   "active": "53808c31aec86ef0",
   "lastOpenFiles": [
+    "ChatGPT_Image_Sep_15_2025_11_29_37_AM.webp",
+    "01-Networking/7 Essential Networking Devices.md",
+    "01-Networking/OSI Model – 7 Layers of Computer Networks.md",
+    "Untitled.md",
+    "computers and operating systems work/The Boot Process and Boot Security.md",
     "01-Networking/Computer Basic Parts.md",
     "computers and operating systems work/Computer Basic Parts.md",
     "computers and operating systems work",
-    "New folder",
-    "Untitled.md"
+    "New folder"
   ]
 }
