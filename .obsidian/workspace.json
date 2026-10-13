@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Networking/OSI Model – 7 Layers of Computer Networks.md",
+                "file": "01-Networking/MAC Addresses vs IP Addresses and ARP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OSI Model – 7 Layers of Computer Networks"
+              "title": "MAC Addresses vs IP Addresses and ARP"
             }
           }
         ]
@@ -190,9 +190,11 @@
   },
   "active": "53808c31aec86ef0",
   "lastOpenFiles": [
+    "01-Networking/IPv4 Addresses.md",
+    "01-Networking/MAC Addresses vs IP Addresses and ARP.md",
+    "01-Networking/OSI Model – 7 Layers of Computer Networks.md",
     "ChatGPT_Image_Sep_15_2025_11_29_37_AM.webp",
     "01-Networking/7 Essential Networking Devices.md",
-    "01-Networking/OSI Model – 7 Layers of Computer Networks.md",
     "Untitled.md",
     "computers and operating systems work/The Boot Process and Boot Security.md",
     "01-Networking/Computer Basic Parts.md",
