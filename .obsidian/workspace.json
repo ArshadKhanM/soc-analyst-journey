@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Networking/OSI Model – 7 Layers of Computer Networks.md",
+                "file": "01-Networking/MAC Addresses vs IP Addresses and ARP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Networking/OSI Model – 7 Layers of Computer Networks.md",
+                "file": "01-Networking/MAC Addresses vs IP Addresses and ARP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -170,7 +170,8 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
